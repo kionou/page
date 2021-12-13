@@ -1,0 +1,130 @@
+/*   GENERAL  */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    width: 940;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+body{
+    background: url(images\ \(1\).jpg) no-repeat center ;
+    background-size: cover;
+    height: 100vh;
+    
+}
+p{
+    margin-top: 50px;
+    font-size: 25px;
+    color:white;
+    font-weight: bold;
+}
+h1{
+    margin-top:100px ;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.rd{
+    color: dodgerblue;
+    font-style: italic;
+    font-family: initial;
+}
+
+h3{
+    font-size: 24px;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding-right: 20px;
+    color: white;
+}
+.blue{
+    color: dodgerblue;
+    font-size: 28px;
+}
+
+
+
+/*   HEADER */
+
+header{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+header nav{
+    margin: 0 auto;
+    padding: 0;
+    float: right;
+   
+    
+}
+
+header nav ul li{
+    text-transform: uppercase;
+     display: inline;
+     float: left;
+    
+    
+}
+header nav ul li a{
+     text-decoration: none;
+     margin-right: 20px;
+     color: white;
+     
+
+}
+
+/*   PARA */
+.para{
+    margin:0 auto ;
+    padding: 0;
+    text-align: center;
+
+}
+.button-1{
+    display: inline-block;
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color:white;
+    font-size: 25px;
+    line-height: 50px;
+    font-family: Cambria;
+    color: black
+    ;border-radius: 3px ;
+    
+}
+
+/*   FOOTER */
+footer{
+    margin-bottom: 100px;
+    padding: 0;
+    
+   
+}
+
+
+footer nav{
+    margin-top: 100px;
+    padding: 0;
+    float: right;   
+}
+
+footer nav ul li{
+    text-transform: uppercase;
+     display: inline;
+     float: left;   
+}
+footer nav ul li a{
+     text-decoration: none;
+     margin-right: 150px;
+     color: white;
+     
+
+}
+
